@@ -759,7 +759,7 @@ main{
   margin: auto;
   padding: 26px 0 36px;
   color: #9a9a9a;
-  font-size: 11px;
+  font-size: 14px;
 }
 
 .footer-top {
@@ -781,14 +781,11 @@ main{
 }
 
 .footer-links a {
-  color: #9a9a9a;
+  color: #333;
   text-decoration: none;
   transition: color 0.2s ease;
 }
 
-.footer-links a:hover {
-  color: #ffffff;
-}
 
 .footer-links a:focus-visible {
   outline: 2px solid currentColor;
